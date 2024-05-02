@@ -7,7 +7,7 @@ var copyObjectDeep = function (target) {
 
     }
     else {
-        result[prop] = target[prop];
+        result = target;
     }
 
     return result;
