@@ -45,5 +45,7 @@ CH01-20 : Undefined 배열 예제
 
 CH01-21 : 빈 요소와 배열의 순회
 
+CH01-22 : null과 undefined의 비교
+
 
 
