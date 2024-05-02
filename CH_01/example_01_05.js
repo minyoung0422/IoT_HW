@@ -4,6 +4,8 @@ var obj1 = {
 
 };
 
+obj1.a = 2; 
+
 console.log(obj1);
 console.log(obj1.a);
 console.log(obj1.b);
