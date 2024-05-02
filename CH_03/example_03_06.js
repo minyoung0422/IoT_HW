@@ -8,4 +8,4 @@ var obj = {
     method: func
 };
 
-obj.method(2)
+obj.method(2);
