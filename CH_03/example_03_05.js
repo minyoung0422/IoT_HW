@@ -14,7 +14,3 @@ global.d = 4;
 delete d;
 console.log(d, global.d, this.d);
 
-// 해보니까 1 undefined undefined 와.
-//         2 2 undefined 
-//         1 3 undefined
-//         4 4 undefined 가 출력됩니다.
