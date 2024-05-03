@@ -110,3 +110,5 @@ CH03-15 : call 메서드 (2)
 CH03-16 : apply 메서드
 
 CH03-17 : call/apply 메서드 활용 (1)
+
+CH03-18 : call/apply 메서드 활용 (2)
