@@ -114,3 +114,5 @@ CH03-17 : call/apply 메서드 활용 (1)
 CH03-18 : call/apply 메서드 활용 (2)
 
 CH03-19 : call/apply 메서드 활용 (3)
+
+CH03-20 : call/apply 메서드 활용 (4)
