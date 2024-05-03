@@ -122,3 +122,5 @@ CH03-21 : call/apply 메서드 활용 (5)
 CH03-22 : call/apply 메서드 활용 (6) min max
 
 CH03-23 : call/apply 메서드 활용 (7) min max Math 사용
+
+CH03-24 : call/apply 메서드 활용 (8) min max Math + 펼치기 사용
