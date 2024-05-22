@@ -138,3 +138,5 @@ CH04-04 : 콜백 함수 예제 (4) Array.prototype.map
 CH04-05 : 콜백 함수 예제 (5) Array.prototype.map
 
 CH04-06 : 콜백 함수 내부의 this
+
+CH04-07 : 메서드를 콜백 함수로 전달한 경우
