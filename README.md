@@ -135,3 +135,4 @@ CH04-03 : 콜백 함수 예제 (3) Array.prototype.map
 
 CH04-04 : 콜백 함수 예제 (4) Array.prototype.map
 
+CH04-04 : 콜백 함수 예제 (5) Array.prototype.map
