@@ -124,3 +124,10 @@ CH03-22 : call/apply 메서드 활용 (6) min max
 CH03-23 : call/apply 메서드 활용 (7) min max Math 사용
 
 CH03-24 : call/apply 메서드 활용 (8) min max Math + 펼치기 사용
+
+---
+
+CH04-01 : 콜백 함수 예제 (1) setInterval
+
+CH04-02 : 콜백 함수 예제 (2) setInterval
+
