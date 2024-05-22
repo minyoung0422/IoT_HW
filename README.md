@@ -133,3 +133,5 @@ CH04-02 : 콜백 함수 예제 (2) setInterval
 
 CH04-03 : 콜백 함수 예제 (3) Array.prototype.map
 
+CH04-04 : 콜백 함수 예제 (4) Array.prototype.map
+
