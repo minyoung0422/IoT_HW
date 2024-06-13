@@ -207,6 +207,7 @@ CH06-02 : Prototype 과 __proto__
 
 CH06-03 : Constructor 프로퍼티
 
+CH06-04 : Constructor 변경
 
 
 
