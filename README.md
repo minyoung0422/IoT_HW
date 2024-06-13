@@ -205,6 +205,9 @@ CH06-01 : Prototype 예제
 
 CH06-02 : Prototype 과 __proto__
 
+CH06-03 : Constructor 프로퍼티
+
+
 
 
 
