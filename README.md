@@ -211,6 +211,8 @@ CH06-04 : constructor 변경
 
 CH06-05 : 다양한 constructor 접근 방법
 
+CH06-06 : 메서드 오버라이드
+
 
 
 
