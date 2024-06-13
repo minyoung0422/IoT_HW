@@ -203,6 +203,8 @@ CH05-18 : 커링 함수 예제 (2)
 
 CH06-01 : Prototype 예제
 
+CH06-02 : Prototype 과 __proto__
+
 
 
 
