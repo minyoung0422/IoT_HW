@@ -205,9 +205,12 @@ CH06-01 : Prototype 예제
 
 CH06-02 : Prototype 과 __proto__
 
-CH06-03 : Constructor 프로퍼티
+CH06-03 : constructor 프로퍼티
 
-CH06-04 : Constructor 변경
+CH06-04 : constructor 변경
+
+CH06-05 : 다양한 constructor 접근 방법
+
 
 
 
