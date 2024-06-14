@@ -233,4 +233,6 @@ CH07-04 : 요소가 있는 배열을 prototype에 매칭한 경우
 
 CH07-05 : Rectangle Square 클래스
 
-CH07-06 : Rectangle을 상속하는 Square 클래스
+CH07-06 : Square 클래스 변형
+
+CH07-07 : Rectangle을 상속하는 Square 클래스
