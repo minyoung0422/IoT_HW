@@ -232,3 +232,5 @@ CH07-03 : length 프로퍼티를 삭제한 경우
 CH07-04 : 요소가 있는 배열을 prototype에 매칭한 경우
 
 CH07-05 : Rectangle Square 클래스
+
+CH07-06 : Rectangle을 상속하는 Square 클래스
