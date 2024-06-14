@@ -230,3 +230,5 @@ CH07-02 : Grade 생성자 함수와 인스턴스 (2)
 CH07-03 : length 프로퍼티를 삭제한 경우
 
 CH07-04 : 요소가 있는 배열을 prototype에 매칭한 경우
+
+CH07-05 : Rectangle Square 클래스
